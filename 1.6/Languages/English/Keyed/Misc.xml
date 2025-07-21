@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <USH_NA_>{PAWN} doesn't carry any disease that can be sampled.</USH_NA_>
+
+
+    <USH_NA_InfectionChance>Necroa infection spread chance</USH_NA_InfectionChance>
+    <USH_NA_InfectionChanceDesc>The chance for necroa to spread after a successful shambler attack: {0}.</USH_NA_InfectionChanceDesc>
+
+    <USH_NA_SeverityPerAttack>Severity per attack</USH_NA_SeverityPerAttack>
+    <USH_NA_SeverityPerAttackDesc>The severity of necroa infection will be increased by {0} per successful shambler attack.</USH_NA_SeverityPerAttackDesc>
+
+    <USH_NA_BleedingOnly>Necroa spread only with bleeding:</USH_NA_BleedingOnly>
+    <USH_NA_BleedingOnlyDesc>With this enabled the necroa will spread only if the attack by shambler caused bleeding on the target.</USH_NA_BleedingOnlyDesc>
+
+    <USH_NA_ResetSettings>Reset options to default</USH_NA_ResetSettings>
+
+</LanguageData>
