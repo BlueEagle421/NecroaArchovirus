@@ -1,4 +1,4 @@
-# Glittertech Expansion – RimWorld Mod
+# Necroa Archovirus – RimWorld Mod
 
 *A shambler infection system*
 
